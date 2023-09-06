@@ -82,10 +82,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'smithadb.mysql.database.azure.com',
-	'username' => 'smithadbuser',
-	'password' => 'Verity@123',
-	'database' => 'college_mgmt',
+	'hostname' => '',
+	'username' => '',
+	'password' => '',
+	'database' => '',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
