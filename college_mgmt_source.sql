@@ -1,3 +1,4 @@
+DROP DATABASE `college_mgmt`;
 CREATE DATABASE  IF NOT EXISTS `college_mgmt` ;
 USE `college_mgmt`;
 -- MySQL dump 10.13  Distrib 8.0.41, for Win64 (x86_64)
